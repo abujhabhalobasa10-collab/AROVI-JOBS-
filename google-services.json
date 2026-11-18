@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701058156940",
+    "project_id": "arovi-job",
+    "storage_bucket": "arovi-job.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701058156940:android:908be4f46376688c622ea9",
+        "android_client_info": {
+          "package_name": "com.arovi.jobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7OQlXMDF5yQEK0ku78gW8dHBJW_o9i6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
